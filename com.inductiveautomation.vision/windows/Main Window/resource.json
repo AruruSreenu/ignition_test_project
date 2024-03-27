@@ -1,0 +1,19 @@
+{
+  "scope": "C",
+  "version": 2,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "window.bin",
+    "thumbnail.png"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "sreenu",
+      "timestamp": "2024-03-26T22:24:12Z"
+    },
+    "xml-format-version": 1,
+    "open-on-start": true,
+    "lastModificationSignature": "cd2aca00ef8f73a6707f47c844e1287e0d07efcb2740ad9bbd05998988a7dc42"
+  }
+}
